@@ -18,4 +18,5 @@ The following algorithms are implemented:
 11. K-Means Clustering
 12. Plotting Receiver Operating Characteristic (ROC) Curve
 13. Word2Vec in Keras
-14. Random Walk  
+14. Random Walk
+15. Principal Component Analysis  
