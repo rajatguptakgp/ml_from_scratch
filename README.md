@@ -16,9 +16,18 @@ The following algorithms are implemented till date:
 9. Multiple Logistic Regression
 10. K Nearest Neighbors
 11. K-Means Clustering
-12. Plotting Receiver Operating Characteristic (ROC) Curve
-13. Word2Vec
+12. Implementing Receiver Operating Characteristic (ROC) Curve
+13. Implementing Precision Recall Curve (PRC) 
+14. Word2Vec
     - Implementation in Keras
     - Implementation in PyTorch
 15. Random Walk
-16. Principal Component Analysis  
+16. How random are Python numbers?
+17. Principal Component Analysis 
+18. Singular Value Decomposition
+19. Collaborative Filtering 
+20. Bag of Words (BOW) modelling
+21. Linear Discriminant Analysis (LDA) v/s Principal Component Analysis (PCA)
+22. Understanding Loss Functions 
+23. Multi-Label Classification
+24. Recommendation Evaluation Metrics
