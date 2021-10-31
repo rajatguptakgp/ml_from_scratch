@@ -2,7 +2,7 @@
 Implementation of machine learning algorithms from scratch
 
 ***
-The following algorithms are implemented till date:
+The following algorithms are implemented to date:
 1. Train Test Split
 2. Stratified Split
 3. K-Fold Cross Validation
