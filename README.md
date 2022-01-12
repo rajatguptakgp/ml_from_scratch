@@ -30,3 +30,4 @@ The following algorithms are implemented to date:
 25. Multi-Label Classification
 26. Recommendation Evaluation Metrics
 27. Hierarchical Clustering 
+28. Naive Bayes Classifier
