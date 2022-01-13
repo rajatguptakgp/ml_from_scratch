@@ -29,5 +29,6 @@ The following algorithms are implemented to date:
 24. Understanding Loss Functions 
 25. Multi-Label Classification
 26. Recommendation Evaluation Metrics
-27. Hierarchical Clustering 
-28. Naive Bayes Classifier
+27. Hierarchical Clustering
+28. Density-based spatial clustering of applications with noise (DBSCAN) 
+29. Naive Bayes Classifier
