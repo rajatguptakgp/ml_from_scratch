@@ -19,7 +19,7 @@ The following algorithms are implemented to date:
 14. Implementing Precision Recall Curve (PRC) 
 15. Word2Vec implementation in Keras
 16. Word2Vec implementation in PyTorch
-17. Random Walk
+17. Simulating Random Walks
 18. How random are Python numbers?
 19. Principal Component Analysis 
 20. Singular Value Decomposition
